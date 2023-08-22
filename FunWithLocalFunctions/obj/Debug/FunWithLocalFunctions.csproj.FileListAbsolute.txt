@@ -1,0 +1,7 @@
+E:\Мои проекты в Visual Studio\FunWithLocalFunctions\bin\Debug\FunWithLocalFunctions.exe.config
+E:\Мои проекты в Visual Studio\FunWithLocalFunctions\bin\Debug\FunWithLocalFunctions.exe
+E:\Мои проекты в Visual Studio\FunWithLocalFunctions\bin\Debug\FunWithLocalFunctions.pdb
+E:\Мои проекты в Visual Studio\FunWithLocalFunctions\obj\Debug\FunWithLocalFunctions.csproj.CoreCompileInputs.cache
+E:\Мои проекты в Visual Studio\FunWithLocalFunctions\obj\Debug\FunWithLocalFunctions.exe
+E:\Мои проекты в Visual Studio\FunWithLocalFunctions\obj\Debug\FunWithLocalFunctions.pdb
+E:\Мои проекты в Visual Studio\FunWithLocalFunctions\obj\Debug\FunWithLocalFunctions.csproj.AssemblyReference.cache

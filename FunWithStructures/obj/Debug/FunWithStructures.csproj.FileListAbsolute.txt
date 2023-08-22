@@ -1,0 +1,7 @@
+E:\Мои проекты в Visual Studio\FunWithStructures\bin\Debug\FunWithStructures.exe.config
+E:\Мои проекты в Visual Studio\FunWithStructures\bin\Debug\FunWithStructures.exe
+E:\Мои проекты в Visual Studio\FunWithStructures\bin\Debug\FunWithStructures.pdb
+E:\Мои проекты в Visual Studio\FunWithStructures\obj\Debug\FunWithStructures.csproj.AssemblyReference.cache
+E:\Мои проекты в Visual Studio\FunWithStructures\obj\Debug\FunWithStructures.csproj.CoreCompileInputs.cache
+E:\Мои проекты в Visual Studio\FunWithStructures\obj\Debug\FunWithStructures.exe
+E:\Мои проекты в Visual Studio\FunWithStructures\obj\Debug\FunWithStructures.pdb

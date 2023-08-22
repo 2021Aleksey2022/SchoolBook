@@ -1,0 +1,7 @@
+E:\Мои проекты в Visual Studio\Solution\MyProject\bin\Debug\MyProject.exe.config
+E:\Мои проекты в Visual Studio\Solution\MyProject\bin\Debug\MyProject.exe
+E:\Мои проекты в Visual Studio\Solution\MyProject\bin\Debug\MyProject.pdb
+E:\Мои проекты в Visual Studio\Solution\MyProject\obj\Debug\MyProject.csproj.AssemblyReference.cache
+E:\Мои проекты в Visual Studio\Solution\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+E:\Мои проекты в Visual Studio\Solution\MyProject\obj\Debug\MyProject.exe
+E:\Мои проекты в Visual Studio\Solution\MyProject\obj\Debug\MyProject.pdb

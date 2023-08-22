@@ -1,0 +1,7 @@
+E:\Мои проекты в Visual Studio\FunWithMethods\bin\Debug\FunWithMethods.exe.config
+E:\Мои проекты в Visual Studio\FunWithMethods\bin\Debug\FunWithMethods.exe
+E:\Мои проекты в Visual Studio\FunWithMethods\bin\Debug\FunWithMethods.pdb
+E:\Мои проекты в Visual Studio\FunWithMethods\obj\Debug\FunWithMethods.csproj.AssemblyReference.cache
+E:\Мои проекты в Visual Studio\FunWithMethods\obj\Debug\FunWithMethods.csproj.CoreCompileInputs.cache
+E:\Мои проекты в Visual Studio\FunWithMethods\obj\Debug\FunWithMethods.exe
+E:\Мои проекты в Visual Studio\FunWithMethods\obj\Debug\FunWithMethods.pdb

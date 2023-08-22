@@ -1,0 +1,7 @@
+E:\Мои проекты в Visual Studio\FunWithArrays\bin\Debug\FunWithArrays.exe.config
+E:\Мои проекты в Visual Studio\FunWithArrays\bin\Debug\FunWithArrays.exe
+E:\Мои проекты в Visual Studio\FunWithArrays\bin\Debug\FunWithArrays.pdb
+E:\Мои проекты в Visual Studio\FunWithArrays\obj\Debug\FunWithArrays.csproj.AssemblyReference.cache
+E:\Мои проекты в Visual Studio\FunWithArrays\obj\Debug\FunWithArrays.csproj.CoreCompileInputs.cache
+E:\Мои проекты в Visual Studio\FunWithArrays\obj\Debug\FunWithArrays.exe
+E:\Мои проекты в Visual Studio\FunWithArrays\obj\Debug\FunWithArrays.pdb

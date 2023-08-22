@@ -1,0 +1,7 @@
+E:\Мои проекты в Visual Studio\RefTypeeValTypeParams\bin\Debug\RefTypeeValTypeParams.exe.config
+E:\Мои проекты в Visual Studio\RefTypeeValTypeParams\bin\Debug\RefTypeeValTypeParams.exe
+E:\Мои проекты в Visual Studio\RefTypeeValTypeParams\bin\Debug\RefTypeeValTypeParams.pdb
+E:\Мои проекты в Visual Studio\RefTypeeValTypeParams\obj\Debug\RefTypeeValTypeParams.csproj.AssemblyReference.cache
+E:\Мои проекты в Visual Studio\RefTypeeValTypeParams\obj\Debug\RefTypeeValTypeParams.csproj.CoreCompileInputs.cache
+E:\Мои проекты в Visual Studio\RefTypeeValTypeParams\obj\Debug\RefTypeeValTypeParams.exe
+E:\Мои проекты в Visual Studio\RefTypeeValTypeParams\obj\Debug\RefTypeeValTypeParams.pdb

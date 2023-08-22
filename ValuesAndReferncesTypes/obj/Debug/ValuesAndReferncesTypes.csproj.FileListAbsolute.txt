@@ -1,0 +1,7 @@
+E:\Мои проекты в Visual Studio\ValuesAndReferncesTypes\bin\Debug\ValuesAndReferncesTypes.exe.config
+E:\Мои проекты в Visual Studio\ValuesAndReferncesTypes\bin\Debug\ValuesAndReferncesTypes.exe
+E:\Мои проекты в Visual Studio\ValuesAndReferncesTypes\bin\Debug\ValuesAndReferncesTypes.pdb
+E:\Мои проекты в Visual Studio\ValuesAndReferncesTypes\obj\Debug\ValuesAndReferncesTypes.csproj.AssemblyReference.cache
+E:\Мои проекты в Visual Studio\ValuesAndReferncesTypes\obj\Debug\ValuesAndReferncesTypes.csproj.CoreCompileInputs.cache
+E:\Мои проекты в Visual Studio\ValuesAndReferncesTypes\obj\Debug\ValuesAndReferncesTypes.exe
+E:\Мои проекты в Visual Studio\ValuesAndReferncesTypes\obj\Debug\ValuesAndReferncesTypes.pdb
