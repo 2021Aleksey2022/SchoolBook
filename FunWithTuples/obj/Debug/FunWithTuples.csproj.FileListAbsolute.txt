@@ -1,0 +1,7 @@
+E:\Мои проекты в Visual Studio\FunWithTuples\bin\Debug\FunWithTuples.exe.config
+E:\Мои проекты в Visual Studio\FunWithTuples\bin\Debug\FunWithTuples.exe
+E:\Мои проекты в Visual Studio\FunWithTuples\bin\Debug\FunWithTuples.pdb
+E:\Мои проекты в Visual Studio\FunWithTuples\obj\Debug\FunWithTuples.csproj.AssemblyReference.cache
+E:\Мои проекты в Visual Studio\FunWithTuples\obj\Debug\FunWithTuples.csproj.CoreCompileInputs.cache
+E:\Мои проекты в Visual Studio\FunWithTuples\obj\Debug\FunWithTuples.exe
+E:\Мои проекты в Visual Studio\FunWithTuples\obj\Debug\FunWithTuples.pdb
